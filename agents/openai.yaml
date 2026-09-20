@@ -1,0 +1,6 @@
+interface:
+  display_name: "人话 · renhua"
+  short_description: "理解需求，整理知识，组织文章并自然润色，按任务选择合适的写作能力"
+  default_prompt: "请用 $renhua 理解我的目标，按任务选择整理、写作或润色方式，保留必要信息并完成交付。"
+policy:
+  allow_implicit_invocation: true
